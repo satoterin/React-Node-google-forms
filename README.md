@@ -2,28 +2,6 @@
 
 <h4 align="center">A Clone of google forms in React and Nodejs.</h4>
 
-<p align="center">
-    <a href="https://github.com/rohitsaini1196/google-forms/commits/master">
-    <img src="https://img.shields.io/badge/Last%20Commit-July-green?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub last commit">
-    <a href="https://github.com/rohitsaini1196/google-forms/issues">
-    <img src="https://img.shields.io/badge/Open%20Issues-0-red?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub issues">
-    <a href="https://github.com/rohitsaini1196/google-forms/pulls">
-    <img src="https://img.shields.io/badge/Open%20pull%20requests-0-blue?style=flat-square&logo=github&logoColor=whit"
-         alt="GitHub pull requests">
-</p>
-      
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#features">Features</a> •
-  <a href="#screenshots">Screenshots</a> •
-  <a href="#author">Author</a> •
-  <a href="#support">Support</a> •
-  <a href="#license">License</a>
-</p>
-
 ---
 
 ## About
@@ -72,55 +50,3 @@ $ npm run dev
 
 etc.
 
-## Screenshots
-
-![Home Page](https://github.com/rohitsaini1196/google-forms/blob/master/screenshots/homepage.png)
-
-![User Preview](https://github.com/rohitsaini1196/google-forms/blob/master/screenshots/userview.png)
-
-![User Preview](https://github.com/rohitsaini1196/google-forms/blob/master/screenshots/createview.png)
-
-![Submit Preview](https://github.com/rohitsaini1196/google-forms/blob/master/screenshots/submitview.png)
-
-![Basic question perview](https://github.com/rohitsaini1196/google-forms/blob/master/screenshots/basic-user-question.png)
-
-![Creater Preview](https://github.com/rohitsaini1196/google-forms/blob/master/screenshots/createView-withImage.png)
-
-![Share Link](https://github.com/rohitsaini1196/google-forms/blob/master/screenshots/sharelink.png)
-
-![Creater Preview](https://github.com/rohitsaini1196/google-forms/blob/master/screenshots/image-user-view.png)
-
-![Response Preview](https://github.com/rohitsaini1196/google-forms/blob/master/screenshots/response.png)
-
-
-
-
-
-
-[See more](https://github.com/rohitsaini1196/google-forms/tree/master/screenshots).
-
-
-
-
-
-
-## Author
-
-| [![Rohit Saini](https://res.cloudinary.com/stillhungry/image/upload/c_scale,w_150/v1588051252/cycles/2020-04-28T05:20:52.231Z.jpg)](https://www.linkedin.com/in/rohitsaini1196/) 	|
-|:---------------------------------------------------------------------------------------------------------:	|
-|                                            **Rohit Saini**                                            	|
-
-## Support
-
-Reach out to me at one of the following places:
-
-- Website at [stillthristy.in](https://www.stillthristy.in/)
-- Github at **[rohitsaini1196](https://github.com/rohitsaini1196)**
-- E-Mail: **sidsaini1196@gmail.com**
-
-
-## License
-
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/rohitsaini1196/google-forms/blob/master/licence.md)
-
-- Copyright © [Rohit Saini](https://stillthristy.in/ "Rohit Saini").
